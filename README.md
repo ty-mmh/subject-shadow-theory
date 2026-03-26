@@ -113,7 +113,7 @@ GitHubを使う理由は次の通りです。
 ├─ README.md
 ├─ canon/
 │  ├─ paper1_subject_shadow_theory.md
-│  └─ core_concept.md
+│  └─ core_concepts.md
 ├─ docs/
 │  ├─ roadmap.md
 │  ├─ changelog.md
